@@ -36,4 +36,4 @@ The controlled vocabulary for `access_type` is:
 
 The registry is a public resource. Please do not include any sensitive information in the registry.
 
-In particular, if you want your OMERO.web url to _not_, please leave the `omero_web_url` field empty.
+In particular, if you want your OMERO.web url to _not_ be known widely, please leave the `omero_web_url` field empty.
