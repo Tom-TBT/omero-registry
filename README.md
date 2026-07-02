@@ -4,7 +4,7 @@ The goal is to map OMERO instances and facilitate reporting and collaboration.
 
 Participation is voluntary and free.
 
-If you want to add your OMERO instance to the registry, please fill in the fields that you would be confortable with sharing and open a pull request.
+If you want to add your OMERO instance to the registry, please fill in the fields that you would be comfortable with sharing and open a pull request.
 
 The only required fields are `name`, `institution`, `country_code` and `access_type`. All other fields are optional.
 
