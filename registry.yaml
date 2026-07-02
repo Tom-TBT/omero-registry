@@ -1,0 +1,42 @@
+omero_instances:
+  - name: Image Data Resource
+    country_code: GB
+    access_type: public
+    start_year: 2015
+    end_year:
+    omero_web_url: https://idr.openmicroscopy.org/webclient
+    info_url: https://idr.openmicroscopy.org
+    institution: University of Dundee
+    institution_ror:
+    contact_person:
+    contact_person_orcid:
+    notes:
+    tags: OME
+
+  - name: NFDI4BIOIMAGE OMERO Training Instance
+    country_code: DE
+    access_type: public
+    start_year:
+    end_year:
+    omero_web_url:
+    info_url: https://omero-training.gerbi-gmb.de/
+    institution: German BioImaging e.V.
+    institution_ror:
+    contact_person:
+    contact_person_orcid:
+    notes: Workshops/demos
+    tags: NFDI4BIOIMAGE,training
+
+  - name: University of São Paulo Virtual Microscope
+    country_code: BR
+    access_type: private
+    start_year:
+    end_year:
+    omero_web_url: http://omero-server.icb.usp.br:50081/webclient
+    info_url: https://ww3.icb.usp.br/conheca-as-ferramentas-de-ensino-de-histologia-a-distancia-utilizadas-ou-criadas-pelo-icb/
+    institution: Institute of Biomedical Sciences, University of São Paulo
+    institution_ror:
+    contact_person:
+    contact_person_orcid:
+    notes: Laminário Virtual, used in educational settings
+    tags: education
