@@ -40,3 +40,17 @@ omero_instances:
     contact_person_orcid:
     notes: Laminário Virtual, used in educational settings
     tags: education
+
+  - name: Trends in Microscopy OMERO Instance
+    country_code: DE
+    access_type: public
+    start_year: 2023
+    end_year:
+    omero_web_url: https://omero-tim.gerbi-gmb.de/webclient
+    info_url: https://gerbi-gmb.de/activities/trends-in-microscopy/
+    institution: German BioImaging e.V.
+    institution_ror:
+    contact_person: Tom Boissonnet
+    contact_person_orcid: 0000-0002-3328-9467
+    notes: Data acquired during the recurring TiM school.
+    tags: NFDI4BIOIMAGE,conference
